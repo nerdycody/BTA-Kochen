@@ -1,0 +1,9 @@
+*{box-sizing: border-box;}
+body{background-color: #fff;}
+nav a{color:#000;
+  text-decoration:none; text-transform: uppercase; font-weight: bold;}
+ul{list-style-type: none; padding: 0; margin: 0}
+/*Das ist ein Kommentar*/
+body{font-family: Helvetica, Arial, sans-serif; color: #000; line-height: 1.4; margin: 0;}
+#pageheader{background-color: #fff}
+#Nerdliste{}
